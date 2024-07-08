@@ -9,3 +9,4 @@ This project not only honed my skills in web graphics design but also emphasized
 
 Figma prototype Link:
 https://www.figma.com/proto/z2dAA9ZXRtZi8XZixMtAVu/Untitled?node-id=3-5&t=3VlVJJv7ENpqDd6W-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A5
+Linkedin Link: https://www.linkedin.com/posts/tehrim-maqbool-8800392b1_webdesign-graphicdesign-internship-activity-7215869307581296640-wWS1?utm_source=share&utm_medium=member_desktop
