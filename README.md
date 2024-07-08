@@ -8,4 +8,4 @@ Detailed Web Design: Enhancing user experience with scrolling animations and hov
 This project not only honed my skills in web graphics design but also emphasized the importance of cohesive design and user engagement. I’m grateful to CodexCue for this amazing learning experience!
 
 Figma prototype Link:
-[https://lnkd.in/eawjmJXg](https://www.figma.com/proto/z2dAA9ZXRtZi8XZixMtAVu/Untitled?node-id=16-2018&t=fHW4cwybSUH6QheB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A5)
+https://www.figma.com/proto/z2dAA9ZXRtZi8XZixMtAVu/Untitled?node-id=3-5&t=3VlVJJv7ENpqDd6W-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A5
